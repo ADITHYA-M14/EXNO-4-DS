@@ -1,4 +1,4 @@
-![Screenshot 2024-11-28 143227](https://github.com/user-attachments/assets/6cb82560-cb6c-4669-b619-0e9ae7f1bf6d)# EXNO:4-DS
+# EXNO:4-DS
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
